@@ -1,0 +1,2 @@
+/usr/bin/ar qc libserver_base.a  CMakeFiles/libserver_base.dir/count_down_latch.cpp.o CMakeFiles/libserver_base.dir/mutex_lock.cpp.o CMakeFiles/libserver_base.dir/thread.cpp.o
+/usr/bin/ranlib libserver_base.a

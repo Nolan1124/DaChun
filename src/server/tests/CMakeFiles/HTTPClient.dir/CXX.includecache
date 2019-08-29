@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nolan/workspace/program/DaChun/src/server/tests/http_client_test.cpp
+iostream
+-
+sys/socket.h
+-
+arpa/inet.h
+-
+fcntl.h
+-
+unistd.h
+-
+string.h
+-
+
